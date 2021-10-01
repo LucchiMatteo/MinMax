@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpR47IvZen/5/jJNIMlWd20htjudLGlSYjmwUUXEe2kTMasRtfl/nVthqrDe+eETS/6N6LjZiknzm2GYuS60eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prof.lucchi\\source\\repos\\MinMax\\MinMax\\MinMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
